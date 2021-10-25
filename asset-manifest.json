@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sonyliv2.0/static/css/main.0bb41464.chunk.css",
-    "main.js": "/sonyliv2.0/static/js/main.b8b24238.chunk.js",
-    "main.js.map": "/sonyliv2.0/static/js/main.b8b24238.chunk.js.map",
+    "main.js": "/sonyliv2.0/static/js/main.3d3947b3.chunk.js",
+    "main.js.map": "/sonyliv2.0/static/js/main.3d3947b3.chunk.js.map",
     "runtime-main.js": "/sonyliv2.0/static/js/runtime-main.abd93aff.js",
     "runtime-main.js.map": "/sonyliv2.0/static/js/runtime-main.abd93aff.js.map",
-    "static/js/2.f606ec74.chunk.js": "/sonyliv2.0/static/js/2.f606ec74.chunk.js",
-    "static/js/2.f606ec74.chunk.js.map": "/sonyliv2.0/static/js/2.f606ec74.chunk.js.map",
+    "static/js/2.ef0fd295.chunk.js": "/sonyliv2.0/static/js/2.ef0fd295.chunk.js",
+    "static/js/2.ef0fd295.chunk.js.map": "/sonyliv2.0/static/js/2.ef0fd295.chunk.js.map",
     "index.html": "/sonyliv2.0/index.html",
     "static/css/main.0bb41464.chunk.css.map": "/sonyliv2.0/static/css/main.0bb41464.chunk.css.map",
-    "static/js/2.f606ec74.chunk.js.LICENSE.txt": "/sonyliv2.0/static/js/2.f606ec74.chunk.js.LICENSE.txt",
+    "static/js/2.ef0fd295.chunk.js.LICENSE.txt": "/sonyliv2.0/static/js/2.ef0fd295.chunk.js.LICENSE.txt",
     "static/media/Gullak.e175699f.jpeg": "/sonyliv2.0/static/media/Gullak.e175699f.jpeg",
     "static/media/LOGOLIV.130519fb.png": "/sonyliv2.0/static/media/LOGOLIV.130519fb.png",
     "static/media/Your Honor.e294b75d.jpeg": "/sonyliv2.0/static/media/Your Honor.e294b75d.jpeg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.abd93aff.js",
-    "static/js/2.f606ec74.chunk.js",
+    "static/js/2.ef0fd295.chunk.js",
     "static/css/main.0bb41464.chunk.css",
-    "static/js/main.b8b24238.chunk.js"
+    "static/js/main.3d3947b3.chunk.js"
   ]
 }
